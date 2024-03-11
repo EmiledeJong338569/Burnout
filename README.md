@@ -2,5 +2,5 @@
 - Robin
 - Alperen
 - Lucas
-- Delano
+- Delano de baaa
 
